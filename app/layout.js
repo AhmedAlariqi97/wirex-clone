@@ -18,6 +18,7 @@ export default function RootLayout({ children }) {
 	return (
 		<html lang="en">
 			<head>
+				{/* cdnjs for animation for elements */}
 				<link
 					rel="stylesheet"
 					href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
